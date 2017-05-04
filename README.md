@@ -13,6 +13,7 @@ p5.js vs pixi.js?
 
 ## Resources
   - http://creative-coding.decontextualize.com/making-games-with-p5-play/
+  - https://github.com/kittykatattack/learningPixi
   - https://github.com/Zach417/game-pacman
   - https://github.com/liabru/matter-js
   - https://github.com/shiffman/p5-matter
